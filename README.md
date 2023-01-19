@@ -3,10 +3,10 @@
 </div>  
   
 
-### <div align="center">I'm Kasif, Studying Full Stack Developer  👨‍💻 known Java Basis 🚀</div>  
+### <div align="center">I'm Kasif, Dotnet Developer  👨‍💻 known C# Basis 🚀</div>  
   
 
-- 🌱 I’m currently learning Full Stack Developer and React Js  
+- 🌱 I’m currently DonNet Developer , C# and MVC 
   
 
 - ❓ Ask me about anything related to Core Java  
