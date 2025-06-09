@@ -9,7 +9,7 @@
 - 🌱 I’m currently DonNet Developer , C# and MVC 
   
 
-- ❓ Ask me about anything related to Core Java  
+- ❓ Ask me about anything related to C#  and MVC
   
 
 - ⚡ Fun fact: I am making Graphics for fun  
@@ -77,7 +77,7 @@
 <a href="https://twitter.com/@KashifM43732818" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/kasif-memon-92451b1a6/" target="_blank">
+<a href="https://www.linkedin.com/in/kasifmemon7041/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 </div>  
